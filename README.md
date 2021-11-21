@@ -20,11 +20,11 @@ Dataset taken from :- https://doi.org/10.7910/DVN/M8JQCR%7D
 
 Deployed at https://weatherimageclassifier.herokuapp.com/
 
-![Hail](readmeFiles/Annotation 2021-11-21 173303.png)
+![Hail](readmeFiles/hail.png)
 
-![Rain](readmeFiles/Annotation 2021-11-21 173141.png)
+![Rain](readmeFiles/rain.png)
 
-![Lightning](readmeFiles/Annotation 2021-11-21 173409.png)
+![Lightning](readmeFiles/lightning.png)
 
 Accuracy                  |  Loss
 :-------------------------:|:-------------------------:
