@@ -1,5 +1,5 @@
 # Weather Image Classifier
-Using custom State-of-the-Art MobileNetV2 model, this model classifies the uploaded image based on weather conditions present in the image and achieved 84% accuracy.
+Using custom State-of-the-Art MobileNetV2 model, this model classifies the uploaded image based on weather conditions present in the image and achieved 85% accuracy.
  
 It classifies into following 11 categories
 - 'snow'
